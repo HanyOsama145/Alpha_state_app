@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423785147148",
+    "project_id": "alpha-state-app",
+    "storage_bucket": "alpha-state-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423785147148:android:6692a9ad57429e00bcb729",
+        "android_client_info": {
+          "package_name": "com.example.alpha_state_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28UXo1uysAX6oGA1TMyEdMaADASERMCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
